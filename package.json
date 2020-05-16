@@ -1,0 +1,17 @@
+{
+  "name": "jamstack-identity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@adinjesuha",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.21.33",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
